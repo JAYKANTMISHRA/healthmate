@@ -228,6 +228,8 @@ const cancelAppointment = async (req, res) => {
   }
 };
 
+
+
 // api for online payment using razor pay
 
 const razorpayInstance = new razorpay({
