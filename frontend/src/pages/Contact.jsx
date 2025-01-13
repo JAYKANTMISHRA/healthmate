@@ -13,7 +13,7 @@ const Contact = () => {
 
         <div className=' flex flex-col justify-center item-start gap-6' >
           <p className='font-semibold text-lg text-gray-600'>Our OFFICE</p>
-          <p className='text-gray-500'>D-32, Mayur Vihar Phase 1 <br/>
+          <p className='text-gray-500'>Dwarka, New Delhi, 110075 <br/>
               New Delhi, Delhi - 110091</p>
           <p className='text-gray-500'>tel :+91 9058483683 <br/>Email: jaykantmishra88@gmail.com</p>
           <p className='font-semibold text-lg text-gray-600'>Careers at PRESCRIPTO</p>
